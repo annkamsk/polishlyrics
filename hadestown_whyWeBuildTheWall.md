@@ -15,23 +15,23 @@ Po to powstaje mur
 Powstaje mur by wolność dać  
 
 HADES  
-Jak ten mur nam wolność da? Powiedzcie, me dzieci  
-Jak ten mur nam wolność da?  
+Jak nam ten mur wolność da? Powiedzcie, me dzieci  
+Jak nam ten mur wolność da?  
 
 ALL  
-Jak ten mur nam wolność da  
+Jak nam ten mur wolność da  
 Ten mur zatrzyma wroga w drzwiach  
 Ten mur zapewni wolność nam  
 Po to powstaje mur  
 Powstaje mur by chronić nas  
 
 HADES  
-Kto naszym wrogiem być by śmiał?  
+Ktoby być naszym wrogiem śmiał?  
 Powiedzcie, me dzieci  
-Kto naszym wrogiem być by śmiał?  
+Ktoby być naszym wrogiem śmiał?  
 
 ALL  
-Kto naszym wrogiem być by śmiał?  
+Ktoby być naszym wrogiem śmiał?  
 Ubóstwo śmiało grozić nam  
 Mur przed tym wrogiem chronić ma   
 Zapewnić wolność wśród tych ścian  
@@ -47,7 +47,7 @@ ALL
 Bo mamy to, czego im brak  
 Bo oni chcą to od nas skraść  
 Ubóstwo śmiało grozić nam   
-Mur przed tym wrogiem chronić ma 
+Mur przed tym wrogiem chronić ma
 Zapewnić wolność wśród tych ścian  
 Po to powstaje mur,  
 Powstaje mur, by wolność dać  
