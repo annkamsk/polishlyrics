@@ -9,7 +9,7 @@ Po co budujemy mur? Powiedzcie, me dzieci
 Po co budujemy mur?  
 
 ALL  
-Mur budujemy bo  
+Po co budujemy mur  
 Ten mur zapewni wolność nam  
 Po to powstaje mur  
 Powstaje mur by wolność dać  
