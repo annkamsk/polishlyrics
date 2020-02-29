@@ -15,7 +15,7 @@ Most i rzekę,
 Strumień co w lesie lśni,  
 Morze, niebo, gaj  
 
-CHÓR
+CHÓR  
 Tam zostawię słodkie i gorzkie dni  
 Niech Bóg w opiece  
 Ma mój kraj  
