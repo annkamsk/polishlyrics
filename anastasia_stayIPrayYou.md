@@ -15,11 +15,11 @@ Most i rzekę,
 Strumień co w lesie lśni,  
 Morze, niebo, gaj  
 
+CHÓR
 Tam zostawię słodkie i gorzkie dni  
 Niech Bóg w opiece  
 Ma mój kraj  
-
-CHÓR  
+  
 Piekło tyś i raj  
 Przelaliśmy wspólne łzy rozpaczy  
 I choć blizny pieką i szloch jeszcze trwa  
