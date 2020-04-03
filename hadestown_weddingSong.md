@@ -12,7 +12,7 @@ W czasach ciężkich jak nasz każdy dzień
 ORFEUSZ\
 Gdy zaśpiewam moją pieśń\
 Rzeki wnet dołączą się\
-I dla nas swój opuszczą jar\ 
+I dla nas swój opuszczą jar\
 By złożyć nam ze złota dar\
 Lśniące cuda kryje toń\
 Wszystko to na twoją dłoń\
