@@ -12,11 +12,11 @@ W czasach ciężkich jak nasz każdy dzień
 ORFEUSZ\
 Gdy zaśpiewam moją pieśń\
 Rzeki wnet dołączą się\
-I dla nas wpłyną na ten ...\ 
+I dla nas swój opuszczą jar\ 
 By złożyć nam ze złota dar\
 Lśniące cuda kryje toń\
 Wszystko to na twoją dłoń\
-To rzeki dadzą nam obrączek ...
+To rzeki do nas z twą obrączką mkną
 
 EURYDYKA\
 Mój kochany, zdradź mi śmiało\
@@ -87,8 +87,8 @@ ORFEUSZ\
 Gdy zaśpiewam moją pieśń\
 Ptaki wnet dołączą się\
 I zlecą do nas z wszystkich stron\
-By z piór swych złożyć miękki stos\
-Na puchu z wron twą złożę skroń ??\
+By z piór swych złożyć miękki tron\
+Na puchu swą ułożysz skroń\
 W pościeli cię położę\
 To ptaki tak pościelą ślubne łoże
 
@@ -96,5 +96,5 @@ EURYDYKA\
 A drzewa tak nakryją nam do stołu!
 
 ORFEUSZ\
-A rzeki dadzą nam obrączki ...
+A rzeki do nas z obrączkami mkną
 
