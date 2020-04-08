@@ -6,9 +6,9 @@ By: Irene Sankoff and David Hein
 [KEVIN T]
 O Panie, daj mi pokój nieść  
 Tam gdzie nienawiść,  
-chcę siać miłość twą  
+chcę siać miłość Twą  
 Tam gdzie jest krzywda,  
-wybaczenie twe  
+wybaczenie Twe  
 A wiarę gdzie  
 zwątpienie jest  
 
