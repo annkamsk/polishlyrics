@@ -23,7 +23,7 @@ Gdzie mrok panuje, (Gdzie mrok panuje)
 A tam gdzie smutek,  
 
 [HANNAH & KEVIN T]  
-Szczęścia żar  
+Radość serc 
 
 [RABBI]  
 Oseh shalom bim'romav  
@@ -59,7 +59,7 @@ Pociechy, lecz dawali
 innym ją  
 Zrozumienia, lecz  
 daj rozumieć nam  
-Innych serc,  
+Wzajemności,  
 lecz w miłości zawsze trwać  
 
 [ŻYDOWCY PASAŻEROWIE]   
@@ -94,4 +94,4 @@ Nadzieję dać
 Gdzie mrok panuje,  
 Światła blask  
 A tam gdzie smutek,  
-Szczęścia żar  
+Radość serc 
