@@ -3,7 +3,7 @@ From: Come From Away
 Song: Prayer  
 By: Irene Sankoff and David Hein  
 
-[KEVIN T]
+[KEVIN T]  
 O Panie, daj mi pokój nieść  
 Tam gdzie nienawiść,  
 chcę siać miłość Twą  
