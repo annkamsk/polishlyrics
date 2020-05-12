@@ -1,8 +1,8 @@
 ## Nikt nie śpiewa tego co ja
 *From:* Crazy Ex-Girlfriend  
-*Lyrics and music*: RACHEL BLOOM, ADAM SCHLESINGER & JACK DOLGEN  
+*Lyrics and music:* RACHEL BLOOM, ADAM SCHLESINGER & JACK DOLGEN  
 
-Czy się czujesz tak samotny też  
+Czy tak czujesz się samotny też  
 Że gdy telefon swój odebrać chcesz  
 Wiesz, że tam odpowie tylko ciszy dźwięk  
 
@@ -24,10 +24,10 @@ Dołączyć nie wie jak
 Och, gdyby tak umiał ktoś   
 W harmonii zaśpiewać głos  
 
-O tym czym...  
-O tym czym...  
-O tym czym...
-samotność jest  
+Nie wie nikt...  
+Jak to jest...  
+Jak to jest...  
+samotnym być
 
 Już noc i coraz zimniej  
 Czas tylko szybciej płynie  
@@ -70,4 +70,8 @@ W harmonii zaśpiewać głos
 Lub może unisono
 
 To logicznie niemożliwe jest  
-tbc.  
+Nikt nie jest taki jak ja  
+Wyciągam swoją dłoń?  
+Aaa  
+
+Samotnym być...  
