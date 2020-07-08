@@ -25,3 +25,5 @@ Chcę móc gdzieś spocząć na zawsze
 ##### hades  
 Hej, mały ptaszku, masz w sobie ten blask  
 Jak brzask rozświetliłabyś kopalni dach  
+
+TBC
