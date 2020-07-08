@@ -6,8 +6,8 @@ Lyrics by: Anais Mitchell
 EURYDYKA\
 Mój kochany, zdradź mi szczerze\
 Kto obrączki nam wybierze\
-Jeśli poślubię cię\
-W czasach ciężkich jak nasz każdy dzień
+Czas nie sprzyja nam\
+Coraz ciężej jest nam z każdym dniem
 
 ORFEUSZ\
 Gdy zaśpiewam moją pieśń\
@@ -21,8 +21,8 @@ To rzeki do nas z twą obrączką mkną
 EURYDYKA\
 Mój kochany, zdradź mi śmiało\
 Co na stole będzie stało\
-Jeśli poślubię cię\
-W czasach ciężkich jak nasz każdy dzień
+Czas nie sprzyja nam\
+Coraz ciężej jest nam z każdym dniem
 
 ORFEUSZ\
 Gdy zaśpiewam moją pieśń\
@@ -80,8 +80,8 @@ Musisz ją skończyć!
 EURYDYKA\
 Mój kochany, zdradź mi proszę\
 Kto pościele ślubne łoże?\
-Gdy już poślubię cię\
-W czasach ciężkich jak nasz każdy dzień
+Czas nie sprzyja nam\
+Coraz ciężej jest nam z każdym dniem
 
 ORFEUSZ\
 Gdy zaśpiewam moją pieśń\
