@@ -48,9 +48,9 @@ Nikt dumny też ?
 Nikt nie jest pełen cnót  
 Gdy stawką życie jest  
 
-Gdy stawką-  
-Gdy stawką-  
-Gdy stawką-  
-Gdy stawką-  
+Gdy życie-  
+Gdy życie-  
+Gdy życie-  
+Gdy życie-  
 Gdy stawką życie jest  
 
