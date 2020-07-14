@@ -44,7 +44,7 @@ Syci dostaną w bród
 Zwróć oczy ku niebu  
 A znajdziesz w swych plecach nóż  
 Nikt nie jest prawy  
-Nikt dumny też  
+Nikt dumny też ?  
 Nikt nie jest pełen cnót  
 Gdy stawką życie jest  
 
