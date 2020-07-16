@@ -19,7 +19,7 @@ jobs:
         token: ${{ secrets.API_TOKEN_NPLUS1 }} 
     - name: Push lyrics to NPlus1 repo
       run: |
-        git clone http://github.com/annkamsk/nplus1
+        git clone https://github.com/annkamsk/nplus1.git
         cp -f *.md nplus1/src/pages/
         cd nplus1
         git config --global user.name "annkamsk"
