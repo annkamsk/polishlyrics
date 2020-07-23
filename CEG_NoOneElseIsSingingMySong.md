@@ -78,64 +78,69 @@ Samotnym być...
 
 ### No one else is singing my song
 
-Do you ever feel so alone?
-That if you were to pick up the phone
-No one else would be on the other end?
+Do you ever feel so alone?  
+That if you were to pick up the phone  
+No one else would be on the other end?  
 
-Have you ever been far from home?
-So scared you had to roam
-And now you're beaten and tired
-With no one to call a friend
-He doesn't count
+Have you ever been far from home?  
+So scared you had to roam  
+And now you're beaten and tired  
+With no one to call a friend  
+He doesn't count  
 
-You tried your best
-To make a change
-But people just think you're strange
-And you feel like
+You tried your best  
+To make a change  
+But people just think you're strange  
+And you feel like  
 
-No one else is singing my song
-No one knows the rhythm
-Enough to sing along
-If only someone could see
-In three part harmony
-How alone, how alone, how alone
-Only I am
+No one else is singing my song  
+No one knows the rhythm  
+Enough to sing along  
+If only someone could see  
+In three part harmony  
+How alone, how alone, how alone  
+Only I am  
 
-It's late and getting colder
-You're only getting older
-And you're next to someone
-Who is fast asleep (that's so specific)
-Does anyone understand?
-Would anyone understand?
-Could anyone understand?
-Of course not
+It's late and getting colder  
+You're only getting older  
+And you're next to someone  
+Who is fast asleep (that's so specific)  
+Does anyone understand?  
+Would anyone understand?  
+Could anyone understand?  
+Of course not  
 
-'Cause no one else is singing my song
-No one knows the rhythm
-Enough to sing along
-When the core of your problem is a
-Complicated melisma
-No one gets, how alone, how alone, how alone
-Only I am
+'Cause no one else is singing my song  
+No one knows the rhythm  
+Enough to sing along  
+When the core of your problem is a  
+Complicated melisma  
+No one gets, how alone, how alone, how alone  
+Only I am  
 
-But maybe while I'm singing my song
-Someone else is singing along
-About a third higher and they echo at a different moment (moment)
-How beautiful would it be
-If it was the entire company
-But that's impossible
+But maybe while I'm singing my song  
+Someone else is singing along  
+About a third higher and they echo at a different moment (moment)  
+How beautiful would it be  
+If it was the entire company  
+But that's impossible  
 
-Impossible, impossible, impossible, impossible
-(Or is it?)
-Of course not
+Impossible,  
+impossible,  
+impossible,  
+impossible  
+(Or is it?)  
+Of course not  
 
-No one else is singing my song (we're out of paper bags)
-I mean, duh
-No one knows the ever changing rhythm enough to sing along
-If only someone could see
-In eleven part harmony
-Or maybe just unison
+No one else is singing my song (we're out of paper bags)  
+I mean, duh  
+No one knows the ever changing rhythm enough to sing along  
+If only someone could see  
+In eleven part harmony  
+Or maybe just unison  
 
-It's logistically impossible
-I am super unique
-Hold out my lonely hands, a-a-ah
+It's logistically impossible  
+I am super unique  
+Hold out my lonely hands, a-a-ah  
+
+Only I am  
