@@ -23,7 +23,27 @@ Chcę móc się skryć wśród miękkich wnęk
 Chcę móc gdzieś spocząć na zawsze  
 
 ##### hades  
-Hej, mały ptaszku, masz w sobie ten blask  
-Jak brzask rozświetliłabyś kopalni dach  
+Hej, mały ptaszku, masz w sobie ten blask
+Jak brzask rozświetliłabyś podziemny trakt
+Lecz wybór jest twój, jeśli podjąć go chcesz
+Choć podły gdy głód i chłód wiodą cię
+A ja miejsce mam dla kanarka
 
-TBC
+###### eurydyka
+Nagle świat cały sens traci już
+Gdzie zniknął mój Orfeusz?
+Mieliśmy parą być bratnich dusz
+Mieliśmy trwać już na zawsze
+
+##### hades
+Hej, mały ptaszku, nie mów, że
+Jest jakimś poetą, co bez grosza 
+Daj komuś swą dłoń, a weźmie też rękę całą
+Napisze ci wierszyk, gdy na chleb będzie mało
+Hej, gdzie ciepło leć w czasie zimy
+
+Hej, mały ptaszku, rozejrzyj się w krąg
+Sępy i żmije do ciebie już się rwą
+I naostrzą ząb, na kościach twych
+Gdy wgryzą się wgłąb, dość widoków mdłych
+Zło w ludziach jest cnych, gdy stawką jest zgon
