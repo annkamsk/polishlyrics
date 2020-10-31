@@ -5,16 +5,16 @@ _By_: _Anais Mitchell_
 
 ##### hades
 Hej, mały ptaszku, daj jakiś głos  
- Siedzę w pracy co noc, i mam dosyć swych trosk  
+ Siedzę w pracy co noc, i mam dość swoich trosk  
 Mam zamówień tu stos, mam klientów tu tłum,  
 Do budowy mam mur, do stłumienia mam strajk  
 Istne piekło tam trwa, w mym Hadesie  
 
 Hej, mały ptaszku, kto(ś) ci język skradł?  
-Żal na to patrzeć, gdy ktoś tak młody już (z)gasł  
-Gdy bieda chce wejść (by) zabrać ci śmiech  
-Ostatni dech wycisnąć z ludzkich ciał  
-A z pustego nic nie wyśpiewasz  
+Żal serce chwyta, gdy ktoś tak młody tak zbladł  
+Choć z biedą wciąż walczysz za trzech  
+Każdy twój dech będzie tylko słabł  
+Ech, z pustych płuc nic nie wyśpiewasz  
 
 ##### eurydyka  
 Dziwny to zew woła ten człek    
