@@ -39,7 +39,7 @@ Mieliśmy trwać już na zawsze
 Hej, mały ptaszku, nie mów, że  
 Jest jakimś poetą, skupionym na grze   
 Daj komuś swą dłoń, a weźmie też rękę całą   
-Napisze ci wierszyk, gdy na chleb będzie mało   
+Napisze ci wierszyk, bo na chleb ma za mało   
 Hej, gdzie ciepło leć w czasie zimy 
 
 Hej, mały ptaszku, rozejrzyj się w krąg. 
