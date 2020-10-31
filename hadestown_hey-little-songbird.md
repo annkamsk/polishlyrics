@@ -37,7 +37,7 @@ Mieliśmy trwać już na zawsze
 
 ##### hades
 Hej, mały ptaszku, nie mów, że  
-Jest jakimś poetą, co bez grosza [...]   
+Jest jakimś poetą, skupionym na grze   
 Daj komuś swą dłoń, a weźmie też rękę całą   
 Napisze ci wierszyk, gdy na chleb będzie mało   
 Hej, gdzie ciepło leć w czasie zimy 
