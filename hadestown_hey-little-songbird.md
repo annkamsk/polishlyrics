@@ -38,7 +38,7 @@ Mieliśmy trwać już na zawsze
 ##### hades
 Hej, mały ptaszku, nie mów, że  
 Jest jakimś poetą, skupionym na grze   
-Daj komuś swą dłoń, a weźmie też rękę całą   
+Daj mu swą dłoń, a weźmie też rękę całą   
 Napisze ci wierszyk, bo na chleb ma za mało   
 Hej, gdzie ciepło leć w czasie zimy 
 
