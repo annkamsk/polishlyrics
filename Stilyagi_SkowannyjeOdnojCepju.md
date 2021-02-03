@@ -31,3 +31,12 @@ Nas radosny hymn pobudza – powstańcie!
 
 Złączeni jednym spoiwem\
 Krzepieni wspólnym motywem
+
+Tutaj miejsca nie ma dla szuj, gnid i łajdaków\
+Tutaj swe ideały przekazujemy w spadku\
+Tutaj chór śpiewa, z prądem zawsze w dół płynie\
+Tutaj w marszu idzie, i w jedności żyje\
+Bez ciebie nam żyć będzie jeszcze milej, być!
+
+Złączeni jednym spoiwem\
+Krzepieni wspólnym motywem
