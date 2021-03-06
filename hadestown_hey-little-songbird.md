@@ -17,7 +17,7 @@ Każdy twój dech będzie tylko słabł
 Ech, z pustych płuc nic nie wyśpiewasz  
 
 ##### eurydyka  
-Dziwny to zew woła ten człek    
+Dziwny tak zew woła ten człek    
 Chcę jego dłoń wziąć i w niej stłumić lęk  
 Chcę móc się skryć wśród miękkich wnęk  
 Chcę móc gdzieś spocząć na zawsze  
