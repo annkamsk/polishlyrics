@@ -14,7 +14,7 @@ Drinking\
 And wishful thinking\
 Stops me from sinking in chaos and dread
 
-Call me once again!
+Call me once again!\
 Days blend together, nothing changes\
 I take whatever they provide\
 Once I was also going places\
