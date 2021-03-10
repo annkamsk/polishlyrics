@@ -14,11 +14,11 @@ Drinking\
 And wishful thinking\
 Stops me from sinking in chaos and dread
 
-Call me once again!\
-Give me a cause that I can fight for\
-I'll take whatever you prepare\
-Give me a wrong I can do right for\
-Show me any sense\
+Call me once again!
+Days blend together, nothing changes\
+I take whatever they provide\
+Once I was also going places\
+Now I stay inside
 
 Struggle, I need a struggle\
 Danger to double\
@@ -29,6 +29,12 @@ Dreaming of cruising beyond the seven seas\
 Then I am falling\
 And I'm recalling\
 There was a calling for me once before
+
+Call me once again!\
+Give me a cause that I can fight for\
+I'll take whatever you prepare\
+Give me a wrong I can do right for\
+Show me any sense
 
 Call me once again!\
 Give me a law that won’t abuse me\
