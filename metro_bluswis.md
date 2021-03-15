@@ -14,7 +14,7 @@ Drinking\
 And wishful thinking\
 Stops me from sinking in chaos and dread
 
-Call me once again!\
+Call on me again!\
 Days blend together, nothing changes\
 I take whatever they provide\
 Once I was also going places\
@@ -30,28 +30,28 @@ Then I am falling\
 And I'm recalling\
 There was a calling for me once before
 
-Call me once again!\
+Call on me again!\
 Give me a cause that I can fight for\
 I'll take whatever you prepare\
 Give me a wrong I can do right for\
 Show me any sense
 
-Call me once again!\
+Call on me again!\
 Give me a law that won’t abuse me\
 Hard work that pays off, pain with gain\
 Give me strict rules that won’t confuse me\
 That will keep me sane
 
-Call me once again!\
+Call on me again!\
 Give me my trials and tribulations\
 I need a glory that won't fade\
 Give me my lofty aspirations\
 Sharp but harmless blade
 
-Call me once again!\
+Call on me again!\
 Send me a threshold that increases\
 High expectations to exceed\
 Send me a war that never ceases\
 Please, don’t leave me here
 
-Call me once again!
+Call on me again!
