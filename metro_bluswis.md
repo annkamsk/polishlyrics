@@ -1,7 +1,7 @@
-## Blueswiz
+## Bluzwis
 
 *Musical*: *Metro*\
-*Title*: *Bluswis*\
+*Title*: *Bluzwis*\
 *Lyrics*: *Agata Miklaszewska, Maryna Miklaszewska*
 
 Sitting\
