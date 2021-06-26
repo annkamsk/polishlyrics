@@ -12,10 +12,10 @@ Mamo, w rozpaczy
 Mamo, anioły  
 Nie zasną w niebie, ni w Betlejem  
 
-Jedni się modlą, by Chrystus zszedł na ziemię  
-Zapalą lampę i podsycą żar  
-A inni leżą skomląc, by on ich znalazł na dnie  
-Lecz gdy już jest, nie wiedzą jak z(a) nim pójść  
+Ktoś modli się by, Chrystus zszedł na ziemię  
+Zapala lampę, podsyca jej żar  
+A inny leży skomląc, by on go znalazł na dnie  
+Lecz gdy już jest, nie słyszy jego słów 
 
 Mamo, żyć dałaś  
 Mamo, nie dałaś  
