@@ -6,7 +6,7 @@ Słowa: Steven Sater
 
 Mamo, żyć dałaś  
 Mamo, nie dałaś  
-Rad żadnych jak mam pojąć  
+Rad żadnych jak mam znieść  
 Żal, co we mnie tkwi  
 Mamo, w rozpaczy  
 Mamo, anioły  
@@ -19,7 +19,7 @@ Lecz gdy już jest, nie słyszy jego słów
 
 Mamo, żyć dałaś  
 Mamo, nie dałaś  
-Rad żadnych jak mam pojąć  
+Rad żadnych jak mam znieść  
 Zło, co we mnie tkwi  
 Mamo, w rozpaczy  
 Mamo, anioły  
