@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Alan, prawdziwy Polak
+music: Die Toten Hosen
+lyrics: Die Toten Hosen
+translation: Anna Kramarska
 ---
-Muzyka, słowa: Die Toten Hosen  
-Tłumaczenie (luźne): Anna Kramarska  
-
-Alanek to nie żaden leń,   
+ Alanek to nie żaden leń,   
 Więc co bez pracy robi w dzień  
 Skopie tłum pedalskich dup  
 Nasika na żydowski grób  
