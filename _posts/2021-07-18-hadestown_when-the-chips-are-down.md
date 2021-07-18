@@ -1,12 +1,10 @@
 ---
-layout: default
-title: hadestown_when-the-chips-are-down.md
+layout: post
+title: Hadestown – When the chips are down
+from: Hadestown (musical)
+lyrics: Anais Mitchell
+translation: Anna Kramarska
 ---
-# Gdy stawką życie jest
-_From_: _Hadestown_  
-_Title_: _When the chips are down_  
-_By_: _Anais Mitchell_  
-
 Jakie życie  
 taka śmierć  
 Też musisz walczyć, by w niej udział mieć  

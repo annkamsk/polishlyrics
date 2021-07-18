@@ -1,12 +1,10 @@
 ---
-layout: default
-title: comeFromAway_prayer.md
+layout: post
+title: Come from away – Prayer
+from: Come from away (musical)
+lyrics: Irene Sankoff and David Hein
+translation: Anna Kramarska
 ---
-### Modlitwa
-From: Come From Away  
-Song: Prayer  
-By: Irene Sankoff and David Hein  
-
 [KEVIN T]  
 O Panie, daj mi pokój nieść  
 Tam gdzie nienawiść,  

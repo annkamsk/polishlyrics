@@ -1,13 +1,10 @@
 ---
-layout: default
-title: springAwakening_mamaWhoBoreMe.md
+layout: post
+title: Spring Awakening – Mama, who bore me
+lyrics: Steven Sater
+from: Spring Awakening (musical)
+translation: Anna Kramarska
 ---
-### Mamo, żyć dałaś
-
-Musical: Spring Awakening  
-Tytuł: Mama, who bore me  
-Słowa: Steven Sater  
-
 Mamo, żyć dałaś  
 Mamo, nie dałaś  
 Rad żadnych jak mam znieść  

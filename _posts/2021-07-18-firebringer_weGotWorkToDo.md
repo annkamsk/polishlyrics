@@ -1,13 +1,10 @@
 ---
-layout: default
-title: firebringer_weGotWorkToDo.md
+layout: post
+title: Firebringer – We got work to do
+from: Firebringer (musical)
+lyrics: Meredith Stepien, Mark Swiderski
+translation: Anna Kramarska
 ---
-### Zacząć pracę czas ###
-
-From: Firebringer\
-Song: We got work to do\
-Lyrics By: Meredith Stepien, Mark Swiderski
-
 JEMILLA (mówione)\
 Zacząć pracę czas!\
 (wszyscy jęczą)\

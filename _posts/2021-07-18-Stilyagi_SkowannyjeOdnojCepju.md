@@ -1,12 +1,9 @@
 ---
-layout: default
-title: Stilyagi_SkowannyjeOdnojCepju.md
+layout: post
+title: Stilyagi – Skowannyje odnoj cepju (Скованные одной цепью)
+from: Stilyagi (Стиляги)
+
 ---
-### Złączeni jednym spoiwem
-
-_Musical_: _Stilyagi (Стиляги)_   
-_Tytuł_: _Skowannyje odnoj cepju (Скованные одной цепью)_  
-
 Pośród nas on żył, szliśmy zawsze razem\
 Szczery chłop to był, codzienny bohater\
 Ale czar już prysł, prawda na jaw wyszła\

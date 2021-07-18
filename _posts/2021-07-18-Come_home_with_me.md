@@ -1,49 +1,50 @@
 ---
-layout: default
-title: Come_home_with_me.md
+layout: post
+title: Hadestown – Come home with me (WIP)
+from: Hadestown (musical)
+lyrics: Anais Mitchell
+translation: Anna Kramarska
 ---
-HERMES
+HERMES  
 Chcesz z nią porozmawiać?
 
-ORPHEUS
+ORFEUSZ  
 Tak!
 
 HERMES
-No to już!
-...
-Czekaj... 
-Zacznij... powoli.
+No to już!  
+...  
+Czekaj...  
+Zacznij... ostroznie.  
 
-ORPHEUS
-Zbudujmy dom!
+ORFEUSZ  
+Zbudujmy dom!  
 
-EURYDICE
-Znamy się?
+EURYDYKA  
+Znamy się?  
 
-ORPHEUS
-Już wkrótce pobierzemy się!
-Jestem Orfeusz
+ORFEUSZ  
+Już wkrótce pobierzemy się!  
+Jestem Orfeusz  
 
-EURYDICE
-On tak zawsze?
+EURYDYKA  
+On tak zawsze?  
 
-HERMES
-TAK
+HERMES  
+TAK  
 
-EURYDICE
-Eurydyka
+EURYDYKA  
+Eurydyka  
 
-ORPHEUS
-Twe imię brzmi jak muzyka
+ORFEUSZ  
+Twe imię brzmi jak muzyka  
 
-EURYDICE
-Aach! Pieśniarz! Stąd cię znam?
+EURYDYKA  
+Aach! Pieśniarz! Stąd cię znam?  
 
-ORPHEUS
-Na lirze także gram.
+ORFEUSZ  
+Na lirze także gram.  
 
-EURYDICE
-Gracz! Z duszą artysty!
-Spotkałam wielu takich jak ty.
-
-O
+EURYDYKA  
+Gracz! Z duszą artysty!  
+Spotkałam wielu takich jak ty.  

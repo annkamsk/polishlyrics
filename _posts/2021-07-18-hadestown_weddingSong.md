@@ -1,12 +1,10 @@
 ---
-layout: default
-title: hadestown_weddingSong.md
+layout: post
+title: Hadestown – Wedding song
+from: Hadestown (musical)
+lyrics: Anais Mitchell
+translation: Anna Kramarska
 ---
-### Ślubna pieśń ###
-From: Hadestown\
-Title: Wedding song\
-Lyrics by: Anais Mitchell
-
 EURYDYKA\
 Mój kochany, zdradź mi szczerze\
 Kto obrączki nam wybierze\

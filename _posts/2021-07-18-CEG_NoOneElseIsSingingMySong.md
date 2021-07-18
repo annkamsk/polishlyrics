@@ -1,11 +1,10 @@
 ---
-layout: default
-title: CEG_NoOneElseIsSingingMySong.md
+layout: post
+title: Crazy Ex-Girlfriend –  No one else is singing my song
+from: Crazy Ex-Girlfriend (serial)
+lyrics: RACHEL BLOOM, ADAM SCHLESINGER & JACK DOLGEN
+translation: Anna Kramarska
 ---
-### Nikt nie śpiewa tego co ja
-*From:* Crazy Ex-Girlfriend  
-*Lyrics and music:* RACHEL BLOOM, ADAM SCHLESINGER & JACK DOLGEN  
-
 Czy tak czujesz się samotny też  
 Że gdy telefon swój odebrać chcesz  
 Wiesz, że tam odpowie tylko ciszy dźwięk  
@@ -80,71 +79,3 @@ Aaa
 
 Samotnym być...  
 
-### No one else is singing my song
-
-Do you ever feel so alone?  
-That if you were to pick up the phone  
-No one else would be on the other end?  
-
-Have you ever been far from home?  
-So scared you had to roam  
-And now you're beaten and tired  
-With no one to call a friend  
-He doesn't count  
-
-You tried your best  
-To make a change  
-But people just think you're strange  
-And you feel like  
-
-No one else is singing my song  
-No one knows the rhythm  
-Enough to sing along  
-If only someone could see  
-In three part harmony  
-How alone, how alone, how alone  
-Only I am  
-
-It's late and getting colder  
-You're only getting older  
-And you're next to someone  
-Who is fast asleep (that's so specific)  
-Does anyone understand?  
-Would anyone understand?  
-Could anyone understand?  
-Of course not  
-
-'Cause no one else is singing my song  
-No one knows the rhythm  
-Enough to sing along  
-When the core of your problem is a  
-Complicated melisma  
-No one gets, how alone, how alone, how alone  
-Only I am  
-
-But maybe while I'm singing my song  
-Someone else is singing along  
-About a third higher and they echo at a different moment (moment)  
-How beautiful would it be  
-If it was the entire company  
-But that's impossible  
-
-Impossible,  
-impossible,  
-impossible,  
-impossible  
-(Or is it?)  
-Of course not  
-
-No one else is singing my song (we're out of paper bags)  
-I mean, duh  
-No one knows the ever changing rhythm enough to sing along  
-If only someone could see  
-In eleven part harmony  
-Or maybe just unison  
-
-It's logistically impossible  
-I am super unique  
-Hold out my lonely hands, a-a-ah  
-
-Only I am  

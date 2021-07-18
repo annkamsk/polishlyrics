@@ -1,13 +1,10 @@
 ---
-layout: default
-title: metro_bluswis.md
+layout: post
+title: Metro – Bluzwis
+from: Metro (musical)
+lyrics: Agata Miklaszewska, Maryna Miklaszewska
+translation: Anna Kramarska
 ---
-## Bluzwis
-
-*Musical*: *Metro*\
-*Title*: *Bluzwis*\
-*Lyrics*: *Agata Miklaszewska, Maryna Miklaszewska*
-
 Sitting\
 Feeling like quitting\
 Maybe it's fitting, there's nothing I can't bear\

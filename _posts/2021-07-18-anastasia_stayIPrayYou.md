@@ -1,12 +1,10 @@
 ---
-layout: default
-title: anastasia_stayIPrayYou.md
+layout: post
+title: Anastasia – Stay, I pray you
+from: Anastasia (musical)
+lyrics: Lynn Ahrens
+translation: Anna Kramarska
 ---
-### Stańmy, błagam  
-*From: Anastasia*  
-*Song: Stay, I pray you*  
-*Lyrics By Lynn Ahrens*  
-
 HRABIA IPPOLITOW  
 Jak cię mam zostawić  
 Jaki powód dać  

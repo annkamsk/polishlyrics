@@ -1,13 +1,11 @@
 ---
-layout: default
-title: hadestown_hey-little-songbird.md
+layout: post
+title: Hadestown – Hey, little songbird
+from: Hadestown (musical)
+lyrics: Anais Mitchell
+translation: Anna Kramarska
 ---
-# Hej, skowroneczku
-_From_: _Hadestown_
-_Title_: _Hey, little songbird_
-_By_: _Anais Mitchell_
-
-##### hades
+HADES  
 Hej, skowroneczku, daj jakiś głos  
  Siedzę w pracy co noc, i mam dość swoich trosk  
 Mam zamówień tu stos, mam klientów tu tłum,  
@@ -20,26 +18,26 @@ Choć z biedą wciąż walczysz za trzech
 Każdy twój dech będzie tylko słabł  
 Ech, z pustych płuc nic nie wyśpiewasz  
 
-##### eurydyka  
+EURYDYKA  
 Dziwny tak zew woła ten człek    
 Chcę jego dłoń wziąć i w niej stłumić lęk  
 Chcę móc się skryć wśród miękkich wnęk  
 Chcę móc gdzieś spocząć na zawsze  
 
-##### hades  
+HADES  
 Hej, skowroneczku, masz w sobie ten blask  
 Jak brzask rozświetliłabyś podziemny trakt  
 Lecz wybór jest twój, jeśli podjąć go chcesz  
 Choć podły gdy głód i chłód wiodą cię  
 A ja miejsce mam dla kanarka. 
 
-###### eurydyka
+EURYDYKA  
 Nagle świat cały sens traci już  
 Gdzie znikłeś znów, Orfeusz?  
 Miała z nas para być bratnich dusz  
 Mieliśmy trwać już na zawsze  
 
-##### hades
+HADES  
 Hej, skowroneczku, nie mów, że  
 Jest jakimś poetą, skupionym na grze   
 Daj mu swą dłoń, a weźmie też rękę całą   

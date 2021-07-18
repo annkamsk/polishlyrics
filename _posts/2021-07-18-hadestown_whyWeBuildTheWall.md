@@ -1,14 +1,10 @@
 ---
-layout: default
-title: hadestown_whyWeBuildTheWall.md
+layout: post
+title: Hadestown – Why we build the wall
+from: Hadestown (musical)
+lyrics: Anaïs Mitchell
+translation: Anna Kramarska
 ---
-### Po co budujemy mur
-
-*From: Hadestown*  
-*Song: Why We Build The Wall*  
-*Lyrics By Anaïs Mitchell*  
-
-
 HADES  
 Po co budujemy mur? Powiedzcie, me dzieci  
 Po co budujemy mur?  
@@ -52,7 +48,7 @@ ALL
 Bo mamy to, czego im brak  
 Bo oni chcą to od nas skraść  
 Ubóstwo śmiało grozić nam   
-Mur przed tym wrogiem chronić ma
+Mur przed tym wrogiem chronić ma  
 Zapewnić wolność wśród tych ścian  
 Po to powstaje mur,  
 Powstaje mur, by wolność dać  
