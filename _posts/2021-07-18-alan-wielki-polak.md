@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Alan Wielki Polak
+title: Alan, prawdziwy Polak
 ---
-# Alan, prawdziwy Polak
-Muzyka, słowa: Die Toten Hosen  
+Muzyka, słowa: Die Toten Hosen  
 Tłumaczenie (luźne): Anna Kramarska  
 
 Alanek to nie żaden leń,   
