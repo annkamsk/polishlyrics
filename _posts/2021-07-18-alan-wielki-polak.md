@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alan_WielkiPolak.md
+title: Alan Wielki Polak
 ---
 # Alan, prawdziwy Polak
 Muzyka, słowa: Die Toten Hosen  
