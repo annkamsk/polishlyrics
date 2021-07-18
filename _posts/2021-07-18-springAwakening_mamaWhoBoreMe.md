@@ -1,3 +1,7 @@
+---
+layout: default
+title: springAwakening_mamaWhoBoreMe.md
+---
 ### Mamo, żyć dałaś
 
 Musical: Spring Awakening  

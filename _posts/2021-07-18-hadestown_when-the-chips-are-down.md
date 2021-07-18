@@ -1,3 +1,7 @@
+---
+layout: default
+title: hadestown_when-the-chips-are-down.md
+---
 # Gdy stawką życie jest
 _From_: _Hadestown_  
 _Title_: _When the chips are down_  

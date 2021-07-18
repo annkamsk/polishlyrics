@@ -1,3 +1,7 @@
+---
+layout: default
+title: altos_lament.md
+---
 ### Lament altu (WIP)
 
 Musical: _  

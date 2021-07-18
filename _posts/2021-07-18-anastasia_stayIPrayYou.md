@@ -1,3 +1,7 @@
+---
+layout: default
+title: anastasia_stayIPrayYou.md
+---
 ### Stańmy, błagam  
 *From: Anastasia*  
 *Song: Stay, I pray you*  

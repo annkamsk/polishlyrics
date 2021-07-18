@@ -1,3 +1,7 @@
+---
+layout: default
+title: Alan_WielkiPolak.md
+---
 # Alan, prawdziwy Polak
 Muzyka, słowa: Die Toten Hosen  
 Tłumaczenie (luźne): Anna Kramarska  

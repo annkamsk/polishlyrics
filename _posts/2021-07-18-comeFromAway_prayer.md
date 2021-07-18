@@ -1,3 +1,7 @@
+---
+layout: default
+title: comeFromAway_prayer.md
+---
 ### Modlitwa
 From: Come From Away  
 Song: Prayer  

@@ -1,3 +1,7 @@
+---
+layout: default
+title: hadestown_weddingSong.md
+---
 ### Ślubna pieśń ###
 From: Hadestown\
 Title: Wedding song\

@@ -1,3 +1,7 @@
+---
+layout: default
+title: Rolandskvadet.md
+---
 ### Pieśń o Rolandzie
 
 _Tytuł_: _Rolandskvadet/Roland og Magnus kongen/Roland at the Battle of Roncevaux_    

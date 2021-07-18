@@ -1,3 +1,7 @@
+---
+layout: default
+title: yentl_PapaCanYouHearMe.md
+---
 ### Tato, czy mnie słyszysz?
 *From: Yentl*  
 *Song: Papa, can you hear me?*  

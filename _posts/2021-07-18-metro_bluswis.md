@@ -1,3 +1,7 @@
+---
+layout: default
+title: metro_bluswis.md
+---
 ## Bluzwis
 
 *Musical*: *Metro*\

@@ -1,3 +1,7 @@
+---
+layout: default
+title: firebringer_weGotWorkToDo.md
+---
 ### Zacząć pracę czas ###
 
 From: Firebringer\

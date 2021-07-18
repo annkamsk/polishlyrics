@@ -1,3 +1,7 @@
+---
+layout: default
+title: AVPM_goin-back-to-hogwarts.md
+---
 # Kierunek Hogwart
 _From_: _A Very Potter Musical_  
 _Title_: _Going' back to Hogwarts_  

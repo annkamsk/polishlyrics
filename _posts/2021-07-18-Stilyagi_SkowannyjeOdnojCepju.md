@@ -1,3 +1,7 @@
+---
+layout: default
+title: Stilyagi_SkowannyjeOdnojCepju.md
+---
 ### Złączeni jednym spoiwem
 
 _Musical_: _Stilyagi (Стиляги)_   
