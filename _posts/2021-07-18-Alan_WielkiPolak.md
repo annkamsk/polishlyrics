@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Alan_WielkiPolak.md
 ---
 # Alan, prawdziwy Polak
