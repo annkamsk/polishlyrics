@@ -1,3 +1,5 @@
 name: Polskie Słowa
 markdown: kramdown
 baseurl: /polishlyrics
+plugins:
+  - jekyll-seo-tag
