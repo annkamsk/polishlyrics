@@ -1,7 +1,7 @@
-### Złączeni jednym spoiwem
-
-_Musical_: _Stilyagi (Стиляги)_   
-_Tytuł_: _Skowannyje odnoj cepju (Скованные одной цепью)_  
+# Złączeni jednym spoiwem
+_From_: _Stilyagi (Стиляги)_   
+_Title_: _Skowannyje odnoj cepju (Скованные одной цепью)_  
+_By_: ?
 
 Pośród nas on żył, szliśmy zawsze razem\
 Szczery chłop to był, codzienny bohater\
