@@ -1,8 +1,8 @@
 # Na nic ty
 
-_Musical_: _My fair lady_
-
-_Tytuł_: _Without you_
+_From_: _My fair lady_  
+_Title_: _Without you_  
+_By_: _A. J. Lerner_  
 
 Ale ze mnie głąb, tępy, pomylony głąb
 
