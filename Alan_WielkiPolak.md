@@ -1,6 +1,7 @@
 # Alan, prawdziwy Polak
-Muzyka, słowa: Die Toten Hosen  
-Tłumaczenie (luźne): Anna Kramarska  
+_From_: _Die Toten Hosen_   
+_Title_: _Sasha ein aufrechter Deutscher_  
+_By_: _Die Toten Hosen_  
 
 Alanek to nie żaden leń,   
 Więc co bez pracy robi w dzień  
