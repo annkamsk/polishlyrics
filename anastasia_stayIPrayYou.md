@@ -1,7 +1,7 @@
-### Stańmy, błagam  
-*From: Anastasia*  
-*Song: Stay, I pray you*  
-*Lyrics By Lynn Ahrens*  
+# Stańmy, błagam  
+_From_: _Anastasia_  
+_Title_: _Stay, I pray you_  
+_By_: _Lynn Ahrens_  
 
 HRABIA IPPOLITOW  
 Jak cię mam zostawić  
