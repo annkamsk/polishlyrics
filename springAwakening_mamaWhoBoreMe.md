@@ -1,8 +1,7 @@
-### Mamo, żyć dałaś
-
-Musical: Spring Awakening  
-Tytuł: Mama, who bore me  
-Słowa: Steven Sater  
+# Mamo, żyć dałaś
+_From_: _Spring Awakening_  
+_Title_: _Mama, who bore me_  
+_By_: _Steven Sater_  
 
 Mamo, żyć dałaś  
 Mamo, nie dałaś  
