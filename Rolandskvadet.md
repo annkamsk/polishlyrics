@@ -1,7 +1,8 @@
 ### Pieśń o Rolandzie
 
-_Tytuł_: _Rolandskvadet/Roland og Magnus kongen/Roland at the Battle of Roncevaux_    
-_Słowa i muzyka_: _Ludowe norweskie_    
+_From_: _Ludowe norweskie_  
+_Title_: _Rolandskvadet/Roland og Magnus kongen/Roland at the Battle of Roncevaux_    
+_By_: _Ludowe norweskie_    
 
 Sześciu rycerzy gna na przodzie by strzec króla i złota  
 A sześciu z tyłu by zdobytych chronić skarbów pogan    
