@@ -1,9 +1,9 @@
-### Modlitwa
-From: Come From Away  
-Song: Prayer  
-By: Irene Sankoff and David Hein  
+# Modlitwa
+_From_: _Come From Away_  
+_Title_: _Prayer_  
+_By_: _Irene Sankoff and David Hein_  
 
-[KEVIN T]  
+##### KEVIN T  
 O Panie, daj mi pokój nieść  
 Tam gdzie nienawiść,  
 chcę siać miłość Twą  
@@ -12,20 +12,20 @@ wybaczenie Twe
 A wiarę gdzie  
 zwątpienie jest  
 
-[HANNAH (KEVIN T)]  
+##### HANNAH (KEVIN T)  
 O Panie, daj mi pokój nieść (O Panie, daj mi pokój nieść)    
 Gdzie rozpacz ciągle trwa, (Gdzie rozpacz ciągle trwa)   
 Nadzieję dać (Nadzieję dać)  
 Gdzie mrok panuje, (Gdzie mrok panuje)  
 Światła blask (Światła blask)  
 
-[HANNAH]  
+##### HANNAH  
 A tam gdzie smutek,  
 
-[HANNAH & KEVIN T]  
+##### HANNAH & KEVIN T  
 Radość serc 
 
-[RABBI]  
+##### RABBI  
 Oseh shalom bim'romav  
 Hu ya'aseh shalom aleinu  
 V'al kol yisreal  
@@ -33,7 +33,7 @@ V'imru, v'imru, amen
 
 ...  
 
-[RABBI (EDDIE)]  
+##### RABBI (EDDIE)  
 Ya'aseh shalom (Ya'aseh shalom)  
 Ya'aseh shalom (Shalom)  
 Shalom aleinu v'al kol yisrael  
@@ -41,7 +41,7 @@ Ya'aseh shalom (Ya'aseh)
 Ya'aseh shalom (Shalom)  
 Shalom aleinu v'al kol yisrael  
 
-[DWIE HINDUSKIE PASAŻERKI]  
+##### DWIE HINDUSKIE PASAŻERKI  
 Asato maa  
 Sad-gamaya  
 Tamaso maa  
@@ -53,7 +53,7 @@ Gamaya
 Om shaantih  
 Shaantih shaantih  
 
-[BEULAH, HANNAH, KEVIN T & SINGER 10]  
+##### BEULAH, HANNAH, KEVIN T & SINGER 10  
 Spraw byśmy nigdy nie szukali już  
 Pociechy, lecz dawali   
 innym ją  
@@ -62,7 +62,7 @@ daj rozumieć nam
 Wzajemności,  
 lecz w miłości zawsze trwać  
 
-[ŻYDOWCY PASAŻEROWIE]   
+##### ŻYDOWCY PASAŻEROWIE   
 Oseh shalom bim'romav  
 Hu ya'aseh shalom aleinu  
 V'al kol yisrael  
@@ -75,11 +75,11 @@ Ya'aseh shalom (Ya'aseh)
 Ya'aseh shalom (Shalom)  
 Shalom aleinu v'al kol yisrael  
 
-[PASSENGERS 1 & 6]  
+##### PASSENGERS 1 & 6  
 Ya'aseh shalom  
 Ya'aseh shalom  
 
-[ALI, mówione]  
+##### ALI, mówione  
 Allahu Akbar  
 Subbhaan Rabbi al Azeem  
 Allahu Akbar  
@@ -87,7 +87,7 @@ Subhaan Rabbia Al-Aala’a
 Allahu Akbar  
 Alhamdulilah  
 
-[KEVIN T]  
+##### KEVIN T  
 O Panie, daj mi pokój nieść  
 Gdzie rozpacz ciągle trwa,  
 Nadzieję dać  
