@@ -29,9 +29,9 @@ Morzu, by fale nieść
 Ciastkom, by wciąż je jeść na nic ty
 
 
-Sztuce, by tworzyć ? na nic ty
+Sztuce, by wzbudzać dreszcz na nic ty
 
-Nawet Keatsowi ? na nic ty
+Nawet Keatsowi też na nic ty
 
 I Hiszpanii, gdzie mży, w czasie tych dżdżystych dni
 
@@ -55,9 +55,9 @@ nam, by utrzymać ład,
 na nic ty
 
 
-Bez twego pchnięcia strumień płynie w dół
+Bez twej namowy strumień płynie w dół
 
-Bez twego drgnięcia stoją szczyty gór
+Bez twojej zgody stoją szczyty gór
 
 I chmury nie czekają na twój znak
 
