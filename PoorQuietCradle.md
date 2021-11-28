@@ -1,0 +1,28 @@
+# Poor, quiet cradle
+_From_: _Tradycyjna polska kolęda_  
+_Title_: _Mizerna cicha_  
+_By_: _Teofil Lenartowicz_  
+
+Poor, quiet cradle  
+Forgotten stable  
+Full of heavenly glory  
+
+Baby is sleeping  
+No sound of weeping  
+Jesus the saviour born here  
+
+Angels flew over  
+To watch Him closer  
+Lighting the dark with haloes  
+
+Golden hair glowing  
+When they are bowing  
+Over their heads bright rainbow  
+
+People of goodwill  
+Prophecy's fulfilled  
+Time of your misery has ended  
+
+Here comes salvation  
+To all the nations  
+God born as man descended  
