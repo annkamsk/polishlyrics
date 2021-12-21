@@ -21,7 +21,7 @@ Over their heads bright rainbow
 
 People of goodwill  
 Prophecy's fulfilled  
-Time of your misery has ended  
+Your misery has ended  
 
 Here comes salvation  
 To all the nations  
