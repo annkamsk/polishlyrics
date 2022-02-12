@@ -49,7 +49,7 @@ Give me my lofty aspirations\
 Personal crusade
 
 Call on me again!\
-Send me a war with no destruction\
+Send me a war – but no destruction\
 High expectations to exceed\
 I’ll be the hero, back in action\
 Please, don’t leave me here
