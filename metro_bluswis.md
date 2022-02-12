@@ -49,9 +49,9 @@ Give me my lofty aspirations\
 Personal crusade
 
 Call on me again!\
-Give me a task with greatest prize\
+Send me a war with no destruction\
 High expectations to exceed\
-Send me a war – but give me allies\
+I’ll be the hero, back in action\
 Please, don’t leave me here
 
 Call on me again!
