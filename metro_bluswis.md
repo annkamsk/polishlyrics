@@ -49,9 +49,9 @@ Give me my lofty aspirations\
 Sharp but harmless blade
 
 Call on me again!\
-Send me a threshold that increases\
-High expectations to exceed\
 Send me a war that never ceases\
+High expectations to exceed\
+I'll be the hero bringing peaces\
 Please, don’t leave me here
 
 Call on me again!
