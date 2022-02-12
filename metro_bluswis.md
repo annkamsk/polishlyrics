@@ -33,11 +33,11 @@ There was a calling for me once before
 Call on me again!\
 Give me a cause that I can fight for\
 I'll take whatever you prepare\
-Give me a wrong I can do right for\
+Give me a role I would be right for\
 Show me any sense
 
 Call on me again!\
-Give me a law that won’t abuse me\
+Give me just laws that won’t abuse me\
 Hard work that pays off, pain with gain\
 Give me strict rules that won’t confuse me\
 That will keep me sane
@@ -46,12 +46,12 @@ Call on me again!\
 Give me my trials and tribulations\
 I need a glory that won't fade\
 Give me my lofty aspirations\
-Sharp but harmless blade
+Personal crusade
 
 Call on me again!\
-Send me a war that never ceases\
+Give me a task with greatest prize\
 High expectations to exceed\
-I'll be the hero bringing peaces\
+Send me a war – but give me allies\
 Please, don’t leave me here
 
 Call on me again!
