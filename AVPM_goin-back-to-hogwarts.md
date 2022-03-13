@@ -1,7 +1,11 @@
-# Kierunek Hogwart
-_From_: _A Very Potter Musical_  
-_Title_: _Going' back to Hogwarts_  
-_By_: _Starkid_  
+---
+title: Kierunek Hogwart
+from: A Very Potter Musical
+orig_title: Going' back to Hogwarts
+lyrics_by: Starkid
+source_lang: english
+target_lang: polish
+---
 
 ##### harry
 Pod schodami tkwię  
