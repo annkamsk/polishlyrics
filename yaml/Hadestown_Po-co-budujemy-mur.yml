@@ -3,28 +3,29 @@ title: Po co budujemy mur
 from: Hadestown
 orig_title: Why We Build The Wall
 lyrics_by: Anaïs Mitchell
+translated_by: Anna Kramarska
 source_lang: en
 target_lang: pl
 ---
 
 target: |
-
-	
 	HADES  
-	Po co budujemy mur? Powiedzcie, me dzieci  
+	Po co budujemy mur? 
+	Powiedzcie, me dzieci  
 	Po co budujemy mur?  
 	
-	ALL  
+	WORKERS  
 	Po co budujemy mur  
 	Ten mur zapewni wolność nam  
 	Po to powstaje mur  
 	Powstaje mur by wolność dać  
 	
 	HADES  
-	Jak nam ten mur wolność da? Powiedzcie, me dzieci  
+	Jak nam ten mur wolność da? 
+	Powiedzcie, me dzieci  
 	Jak nam ten mur wolność da?  
 	
-	ALL  
+	WORKERS  
 	Jak nam ten mur wolność da  
 	Ten mur zatrzyma wroga w drzwiach  
 	Ten mur zapewni wolność nam  
@@ -32,11 +33,11 @@ target: |
 	Powstaje mur by chronić nas  
 	
 	HADES  
-	Ktoby być naszym wrogiem śmiał?  
+	Kto by być naszym wrogiem śmiał?  
 	Powiedzcie, me dzieci  
-	Ktoby być naszym wrogiem śmiał?  
+	Kto by być naszym wrogiem śmiał?  
 	
-	ALL  
+	WORKERS  
 	Ktoby być naszym wrogiem śmiał?  
 	Ubóstwo śmiało grozić nam  
 	Mur przed tym wrogiem chronić ma   
@@ -49,7 +50,7 @@ target: |
 	Słuchajcie, me dzieci  
 	Bo oni chcą, to od nas skraść  
 	
-	ALL  
+	WORKERS  
 	Bo mamy to, czego im brak  
 	Bo oni chcą to od nas skraść  
 	Ubóstwo śmiało grozić nam   
@@ -63,7 +64,7 @@ target: |
 	Powiedzcie, me dzieci  
 	Co mamy tu, co chcą nam skraść?  
 	
-	ALL  
+	WORKERS  
 	Co mamy tu, co chcą nam skraść?  
 	Przy naszym murze mnóstwo prac  
 	Mamy je, a im ich brak  
@@ -82,3 +83,75 @@ target: |
 	
 	
 source: |
+	HADES
+	Why do we build the wall?
+	My children, my children
+	Why do we build the wall?
+
+	WORKERS
+	Why do we build the wall?
+	We build the wall to keep us free
+	That's why we build the wall
+	We build the wall to keep us free
+
+	HADES
+	How does the wall keep us free?
+	My children, my children
+	How does the wall keep us free?
+
+	WORKERS
+	How does the wall keep us free?
+	The wall keeps out the enemy
+	And we build the wall to keep us free
+	That's why we build the wall
+	We build the wall to keep us free
+
+	HADES
+	Who do we call the enemy?
+	My children, my children
+	Who do we call the enemy?
+
+	WORKERS
+	Who do we call the enemy?
+	The enemy is poverty
+	And the wall keeps out the enemy
+	And we build the wall to keep us free
+	That's why we build the wall
+	We build the wall to keep us free
+
+	HADES
+	Because we have and they have not!
+	My children, my children
+	Because they want what we have got!
+
+	WORKERS
+	Because we have and they have not!
+	Because they want what we have got!
+	The enemy is poverty
+	And the wall keeps out the enemy
+	And we build the wall to keep us free
+	That's why we build the wall
+	We build the wall to keep us free
+
+	HADES
+	What do we have that they should want?
+	My children, my children
+	What do we have that they should want?
+
+	WORKERS
+	What do we have that they should want?
+	We have a wall to work upon!
+	We have work and they have none
+
+	HADES
+	And our work is never done
+	My children, my children
+	And the war is never won
+
+	ALL
+	The enemy is poverty
+	And the wall keeps out the enemy
+	And we build the wall to keep us free
+	That's why we build the wall
+	We build the wall to keep us free
+	We build the wall to keep us free
