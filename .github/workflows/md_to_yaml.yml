@@ -26,4 +26,4 @@ jobs:
         with:
           python-version: '3.8'
 
-      - run: python scripts/md_to_yaml.py
+      - run: python .scripts/md_to_yaml.py
