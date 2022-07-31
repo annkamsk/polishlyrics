@@ -3,9 +3,10 @@
 _From_: _Die Toten Hosen_   
 _Title_: _Sasha ein aufrechter Deutscher_  
 _By_: _Die Toten Hosen_  
-_Translated_: _Anna Kramarska_
-_SourceLang_: _de_
-_TargetLang_: _pl_
+_Translated_: _Anna Kramarska_  
+_SourceLang_: _de_  
+_TargetLang_: _pl_  
+
 ---
 
 Alanek to nie żaden leń,   

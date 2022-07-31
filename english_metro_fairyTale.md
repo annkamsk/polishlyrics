@@ -1,11 +1,11 @@
 # Fairy tale
 ---
-_From_: _Metro_
-_Title_: _Chcę być kopciuszkiem_
-_By_: _Agata Miklaszewska, Maryna Miklaszewska_
-_Translated_: _Mary Bracken Phillips_
-_SourceLang_: _pl_
-_TargetLang_: _en_
+_From_: _Metro_  
+_Title_: _Chcę być kopciuszkiem_  
+_By_: _Agata Miklaszewska, Maryna Miklaszewska_  
+_Translated_: _Mary Bracken Phillips_  
+_SourceLang_: _pl_  
+_TargetLang_: _en_  
 
 ---
 
