@@ -1,7 +1,13 @@
 # Nikt nie śpiewa tego co ja
+---
 _From_: _Crazy Ex-Girlfriend_  
 _Title_: _No one else is singing my song_  
 _By_: _RACHEL BLOOM, ADAM SCHLESINGER & JACK DOLGEN_  
+_Translated_: _Anna Kramarska_
+_SourceLang_: _en_
+_TargetLang_: _pl_
+
+---
 
 Czy tak czujesz się samotny też  
 Że gdy telefon swój odebrać chcesz  
