@@ -1,8 +1,13 @@
-### Zacząć pracę czas ###
+# Zacząć pracę czas 
+---
+_From_: Firebringer
+_Title_: We got work to do
+_By_: Meredith Stepien, Mark Swiderski
+_Translated_: _Anna Kramarska_
+_SourceLang_: _en_
+_TargetLang_: _pl_
 
-From: Firebringer\
-Song: We got work to do\
-Lyrics By: Meredith Stepien, Mark Swiderski
+---
 
 JEMILLA (mówione)\
 Zacząć pracę czas!\

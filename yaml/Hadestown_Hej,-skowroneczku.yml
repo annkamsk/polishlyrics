@@ -9,9 +9,9 @@ target_lang: pl
 ---
 
 target: |
-
+##### hades
 	Hej, skowroneczku, daj jakiś głos  
-	Siedzę w pracy co noc, i mam dość swoich trosk  
+	 Siedzę w pracy co noc, i mam dość swoich trosk  
 	Mam zamówień tu stos, mam klientów tu tłum,  
 	Do budowy mam mur, do stłumienia mam strajk  
 	Istne piekło tam trwa, w mym Hadesie  
@@ -22,22 +22,26 @@ target: |
 	Każdy twój dech będzie tylko słabł  
 	Ech, z pustych płuc nic nie wyśpiewasz  
 	
+	##### eurydyka  
 	Dziwny tak zew woła ten człek    
 	Chcę jego dłoń wziąć i w niej stłumić lęk  
 	Chcę móc się skryć wśród miękkich wnęk  
 	Chcę móc gdzieś spocząć na zawsze  
 	
+	##### hades  
 	Hej, skowroneczku, masz w sobie ten blask  
 	Jak brzask rozświetliłabyś podziemny trakt  
 	Lecz wybór jest twój, jeśli podjąć go chcesz  
 	Choć podły gdy głód i chłód wiodą cię  
 	A ja miejsce mam dla kanarka. 
 	
+	###### eurydyka
 	Nagle świat cały sens traci już  
 	Gdzie znikłeś znów, Orfeusz?  
 	Miała z nas para być bratnich dusz  
 	Mieliśmy trwać już na zawsze  
 	
+	##### hades
 	Hej, skowroneczku, nie mów, że  
 	Jest jakimś poetą, skupionym na grze   
 	Daj mu swą dłoń, a weźmie też rękę całą   
@@ -48,45 +52,5 @@ target: |
 	Sępy i żmije do ciebie już się rwą. 
 	I naostrzą ząb, na kościach twych. 
 	Gdy wgryzą się wgłąb, dość widoków mdłych. 
-	Zło w ludziach jest cnych, gdy stawką jest zgon
-	
+	Zło w ludziach jest cnych, gdy stawką jest zgon.
 source: |
-	Hey, little songbird, give me a song
-	I'm a busy man and I can't stay long
-	I got clients to call, I got orders to fill
-	I got walls to build, I got riots to quell
-	And they're giving me hell back in Hades
-
-	Hey, little songbird, cat got your tongue?
-	Always a pity for one so pretty and young
-	When poverty comes to clip your wings
-	And knock the wind right out of your lungs
-	Hey, nobody sings on empty
-
-	Strange is the call of this strange man
-	I want to fly down and feed at his hand
-	I want a nice soft place to land
-	I want to lie down forever
-
-	Hey, little songbird, you got something fine
-	You'd shine like a diamond down in the mine
-	And the choice is yours if you're willing to choose
-	Seeing as you've got nothing to lose
-	And I could use a canary
-
-	Suddenly nothing is as it was
-	Where are you now, Orpheus?
-	Wasn't it gonna be the two of us
-	Weren't we birds of a feather?
-
-	Hey, little songbird, let me guess
-	He's some kind of poet and he's penniless?
-	Give him your hand, he'll give you his hand-to-mouth
-	He'll write you a poem when the power's out
-	Hey, why not fly south for the winter?
-
-	Hey, little songbird, look all around you
-	See how the vipers and vultures surround you
-	They'll take you down, they'll pick you clean
-	If you stick around such a desperate scene
-	See, people get mean when the chips are down...

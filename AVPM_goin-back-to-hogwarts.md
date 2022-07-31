@@ -1,13 +1,14 @@
+# Kierunek Hogwart
 ---
-title: Kierunek Hogwart
-from: A Very Potter Musical
-orig_title: Going' back to Hogwarts
-lyrics_by: Starkid
-source_lang: english
-target_lang: polish
+_From_: A Very Potter Musical
+_Title_: Going' back to Hogwarts
+_By_: Starkid
+_OrigLang_: en
+_TargetLang_: pl
+
 ---
 
-##### harry
+HARRY
 Pod schodami tkwię  
 Słysząc kpin dźwięk i czując gniew  
 Mego wuja, kuzyna, ciotki mej  
@@ -58,35 +59,36 @@ I czarnej magii
 pokona zło  
 A ze mną będzie mój kumpel Ron  
 Bo jesteśmy w tym przefantastyczni  
-##### Ron
+
+RON
 Yeah, bo jesteśmy  
 w tym przefantastyczni  
 
 Czy ktoś powiedział "Ron"?  
 
-##### harry
+HARRY
 Ron! Co tutaj robisz?  
 
-##### Ron
+RON
 Hej, ziom  
 Sorry, że tyle mi to zajęło  
 Musiałem zgarnąć proszek Fiu  
 No, zabieraj swoje rzeczy  
 I lecimy!  
 
-##### harry
+HARRY
 Dokąd idziemy?  
 
-##### Ron
+RON
 Na Pokątną oczywiście  
 
-##### harry
+HARRY
 Cool!  
 
-##### harry & Ron
+HARRY & RON
 fiu proszku proszku x4  
 
-##### ron
+RON
 Z powrotem tu  
 Dość minęło już dni  
 Nie dla nas trud  

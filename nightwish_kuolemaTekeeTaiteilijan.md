@@ -1,7 +1,13 @@
 # Śmierć uczyniła mnie artystą 
+---
 _From_: _Nightwish_
 _Title_: _Kuolema tekee taiteilijan_
 _By_: _Tuomas Holopainen_
+_Translated_: _Anna Kramarska_
+_SourceLang_: _fi_
+_TargetLang_: _pl_
+
+---
 
 Tylko raz widziałam w moich snach  
 Bezkresność gwiazd, czując godną się ich dróg

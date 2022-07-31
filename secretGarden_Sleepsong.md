@@ -1,7 +1,13 @@
 # Sleepsong
+---
 _From_: _Secret garden_  
 _Title_: _Sleepsong_  
 _By_: _Brendan Graham_  
+_Translated_: _Anna Kramarska_
+_SourceLang_: _en_
+_TargetLang_: _pl_
+
+---
 
 Oczy swe zmruż, kołysankę zaśpiewam ci  
 Dźwięk z dawnych lat ukołysze twe sny  

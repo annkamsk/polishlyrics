@@ -1,7 +1,13 @@
 # Modlitwa
+---
 _From_: _Come From Away_  
 _Title_: _Prayer_  
 _By_: _Irene Sankoff and David Hein_  
+_Translated_: _Anna Kramarska_
+_SourceLang_: _en_
+_TargetLang_: _pl_
+
+---
 
 ##### KEVIN T  
 O Panie, daj mi pokój nieść  

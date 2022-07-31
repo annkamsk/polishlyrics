@@ -1,7 +1,14 @@
 # Stańmy, błagam  
+
+---
 _From_: _Anastasia_  
 _Title_: _Stay, I pray you_  
 _By_: _Lynn Ahrens_  
+_Translated_: Anna Kramarska
+_OrigLang_: _en_
+_TargetLang_: _pl_
+
+---
 
 HRABIA IPPOLITOW  
 Jak cię mam zostawić  

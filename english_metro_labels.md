@@ -1,8 +1,13 @@
 # Labels
+---
 _From_: _Metro_
 _Title_: _Hasła_
 _By_: _Agata Miklaszewska, Maryna Miklaszewska_
-_Tłumaczenie_: _Mary Bracken Phillips_
+_Translated__: _Mary Bracken Phillips_
+_SourceLang_: _pl_
+_TargetLang_: _en_
+
+---
 
 You pick up the papers
 The world's gone to hell

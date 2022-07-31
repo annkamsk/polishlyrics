@@ -1,8 +1,13 @@
-## Bluzwis
+# Bluzwis
 
-*Musical*: *Metro*\
-*Title*: *Bluzwis*\
-*Lyrics*: *Agata Miklaszewska, Maryna Miklaszewska*
+_From_: Metro
+_Title_: Bluzwis
+_By_: _Agata Miklaszewska, Maryna Miklaszewska_
+_Translated_: _Anna Kramarska_
+_SourceLang_: _pl_
+_TargetLang_: _en_
+
+---
 
 Sitting\
 Feeling like quitting\

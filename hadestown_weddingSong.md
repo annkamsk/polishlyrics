@@ -1,7 +1,13 @@
-### Ślubna pieśń ###
-From: Hadestown\
-Title: Wedding song\
-Lyrics by: Anais Mitchell
+# Ślubna pieśń
+---
+_From_: Hadestown
+_Title_: Wedding song\
+_By_: Anais Mitchell
+_Translated_: _Anna Kramarska_
+_SourceLang_: _en_
+_TargetLang_: _pl_
+
+---
 
 EURYDYKA\
 Mój kochany, zdradź mi szczerze\

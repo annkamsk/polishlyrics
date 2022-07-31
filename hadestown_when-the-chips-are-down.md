@@ -1,7 +1,13 @@
 # Gdy stawką życie jest
+---
 _From_: _Hadestown_  
 _Title_: _When the chips are down_  
 _By_: _Anais Mitchell_  
+_Translated_: _Anna Kramarska_
+_SourceLang_: _en_
+_TargetLang_: _pl_
+
+---
 
 Jakie życie  
 taka śmierć  

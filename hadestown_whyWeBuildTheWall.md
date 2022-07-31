@@ -1,7 +1,13 @@
 # Po co budujemy mur
+---
 _From_: _Hadestown_  
 _Title_: _Why We Build The Wall_  
 _By_: _Anaïs Mitchell_  
+_Translated_: _Anna Kramarska_
+_SourceLang_: _en_
+_TargetLang_: _pl_
+
+---
 
 
 HADES  

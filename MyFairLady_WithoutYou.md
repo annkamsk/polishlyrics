@@ -1,8 +1,13 @@
 # Na nic ty
-
+---
 _From_: _My fair lady_  
 _Title_: _Without you_  
 _By_: _A. J. Lerner_  
+_Translated_: _Anna Kramarska_
+_SourceLang_: _en_
+_TargetLang_: _pl_
+
+---
 
 Ale ze mnie głąb, tępy, pomylony głąb
 

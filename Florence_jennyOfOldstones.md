@@ -1,7 +1,13 @@
 # Jenny of Oldstones
+---
 _From_: _Game of Thrones_  
 _Title_: _Jenny of Oldstones_  
-_By_: _Ramin Djawadi / George Raymond Richard Martin / David Benioff / Dan Weiss_    
+_By_: _Ramin Djawadi / George Raymond Richard Martin / David Benioff / Dan Weiss_ 
+_Translated_: _Anna Kramarska_
+_SourceLang_: _en_
+_TargetLang_: _pl_
+
+---   
 
 Gdzieś w mroku sal  
 Króla co dawno zmarł  

@@ -1,7 +1,13 @@
 # Poor, quiet cradle
+---
 _From_: _Tradycyjna polska kolęda_  
 _Title_: _Mizerna cicha_  
 _By_: _Teofil Lenartowicz_  
+_Translated_: _Anna Kramarska_
+_SourceLang_: _pl_
+_TargetLang_: _en_
+
+---
 
 Poor, quiet cradle  
 Forgotten stable  

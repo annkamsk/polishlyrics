@@ -1,7 +1,13 @@
 # Mamo, żyć dałaś
+---
 _From_: _Spring Awakening_  
 _Title_: _Mama, who bore me_  
 _By_: _Steven Sater_  
+_Translated_: _Anna Kramarska_
+_SourceLang_: _en_
+_TargetLang_: _pl_
+
+---
 
 Mamo, żyć dałaś  
 Mamo, nie dałaś  

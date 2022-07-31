@@ -1,7 +1,13 @@
 # Złączeni jednym spoiwem
+---
 _From_: _Stilyagi (Стиляги)_   
 _Title_: _Skowannyje odnoj cepju (Скованные одной цепью)_  
 _By_: ?
+_Translated_: _Anna Kramarska_
+_SourceLang_: _ru_
+_TargetLang_: _pl_
+
+---
 
 Pośród nas on żył, szliśmy zawsze razem\
 Szczery chłop to był, codzienny bohater\

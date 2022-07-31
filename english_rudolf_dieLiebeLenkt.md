@@ -1,7 +1,13 @@
 # Only heroes dare
+---
 _From_: _Rudolf: Affaire Mayerling_
 _Title_: _Die Liebe lenkt_
 _By_: _Jack Murphy_
+_Translated__: ?
+_SourceLang_: _de_
+_TargetLang_: _en_
+
+---
 
 What if it were true?
 This new world that you see

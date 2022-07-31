@@ -1,8 +1,11 @@
-### Lament altu (WIP)
+# Lament altu (WIP)
 
-Musical: _  
-Tytuł: Alto's lament  
-Słowa: Zina Goldrich  
+---
+_From_: _  
+_Title_: Alto's lament  
+_By_: Zina Goldrich 
+
+--- 
 
 Cieszę się uznaniem na tej scenie  
 Biorą mnie do wszystkich znanych dzieł!  
