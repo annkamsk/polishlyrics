@@ -66,7 +66,7 @@ def parse_file(data: str):
             "\n"
         ])
         
-        f.writelines([*lines, "target: |\n", "\t".join(target_lyrics), "source: |"])
+        f.writelines([*lines, "target: |\n", "\t" + "\t".join(target_lyrics), "source: |"])
 
 
 for file in glob.glob("*.md"):
