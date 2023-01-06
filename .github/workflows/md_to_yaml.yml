@@ -19,16 +19,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.API_TOKEN_NPLUS1 }}
       - uses: actions/setup-python@v4
         with:
           python-version: '3.8'
       - name: Generate yaml
         run: python .scripts/md_to_yaml.py
-      - name: Commit and push files
-        run: |
-          git config --global user.name "MD-to-yaml-bot"
-          git config --global user.email "md-to-yaml-bot@users.noreply.github.com"
-          git commit -a -m "Generate yaml files"
-          git push
+      - uses: stefanzweifel/git-auto-commit-action@v4
