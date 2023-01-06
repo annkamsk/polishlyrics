@@ -26,10 +26,10 @@ jobs:
           python-version: '3.8'
       - name: Generate yaml
         run: python .scripts/md_to_yaml.py
-      - name: Generate yaml
+      - name: Push yaml
         run: |
           git config --global user.name "MD-to-yaml-bot"
           git config --global user.email "md-to-yaml-bot@users.noreply.github.com"
           git commit -a -m "Generate yaml files"
-          git remote set-url --push origin https://annkamsk:$GITHUB_TOKEN@github.com/polishlyrics
+          git remote set-url --push origin https://annkamsk:$GITHUB_TOKEN@github.com/polishlyrics.git
 
