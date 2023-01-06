@@ -9,6 +9,8 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   build:
@@ -24,4 +26,10 @@ jobs:
           python-version: '3.8'
       - name: Generate yaml
         run: python .scripts/md_to_yaml.py
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Generate yaml
+        run: |
+          git config --global user.name "MD-to-yaml-bot"
+          git config --global user.email "md-to-yaml-bot@users.noreply.github.com"
+          git commit -a -m "Generate yaml files"
+          git remote set-url --push origin https://annkamsk:$GITHUB_TOKEN@github.com/polishlyrics
+
