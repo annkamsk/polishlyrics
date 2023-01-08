@@ -34,7 +34,7 @@ In a night, in three,
 But not now
 
 In a day, and night  
-This too will pass  
+This too shall pass  
 Sun will rise  
 
 Ovens will soon bake us fresh, warm bread  
