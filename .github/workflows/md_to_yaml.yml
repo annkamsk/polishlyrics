@@ -28,8 +28,13 @@ jobs:
         run: python .scripts/md_to_yaml.py
       - name: Push yaml
         run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
-          git add .
-          git commit -m "Generate yaml files"
-          git push
+          if git diff-index --quiet HEAD
+          then
+            echo "No changes."
+          else
+            git config --global user.name github-actions
+            git config --global user.email github-actions@github.com
+            git add .
+            git commit -m "Generate yaml files"
+            git push
+          fi
