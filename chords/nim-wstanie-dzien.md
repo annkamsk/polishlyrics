@@ -58,13 +58,13 @@ Może już
 
 -----
 
-C  Gm        F
+Gm Gm        F
 Za dzień, za dwa,
 
    F       B
 za noc, za trzy,
 
-C        Gm
+   Gm    Gm      F Gm
 choć nie dziś,
 
    Gm      F
@@ -73,7 +73,7 @@ za noc, za dzień,
   F       B
 doczekasz się,
 
-C       Gm
+    Gm  Gm
 wstanie świt. 
 
 -----
@@ -104,13 +104,13 @@ porę burz.
 
 -----
 
-C  Gm        F
+Gm Gm        F
 Za dzień, za dwa,
 
    F       B
 za noc, za trzy,
 
-C        Gm
+   Gm    Gm      F Gm
 choć nie dziś,
 
    Gm      F
@@ -119,5 +119,5 @@ za noc, za dzień,
   F       B
 doczekasz się,
 
-C       Gm
+    Gm  Gm
 wstanie świt. 
