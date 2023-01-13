@@ -4,7 +4,7 @@
 _From_: _Prawo i pięść_  
 _Title_: _Nim wstanie dzień_  
 _By_: _Agnieszka Osiecka_  
-_Translated_: _Anna Kramarska_  
+_Translated_: _Kornel Jankowski, Michał Łazowik_  
 _SourceLang_: _pl_  
 _TargetLang_: _en_
 
