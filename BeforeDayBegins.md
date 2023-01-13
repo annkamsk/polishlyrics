@@ -20,8 +20,8 @@ Where fruit have rotten black
 Day is nigh  
 
 Sunshine will welcome us to our land  
-and look as the blood-soa-ked ground  
-feeds us again as it coats with rye's  
+and look as the blood-soa-ked fields  
+feed us again as they coat with rye's  
 golden dust  
 
 Women will open their door for us  
@@ -31,18 +31,18 @@ soon enough
 
 a day, or two,   
 a night, or three,  
-it will be  
+but not now
 
 a day, a night  
-will pass until  
-dusk is here  
+they too shall pass 
+dusk will come 
 
 We'll light up the ovens to bake our bread  
 and look, where there's ashes and smoke  
 blossom will heal up the wounds of war   
 life will grow   
 
-Someday we'll welcome a newborn child  
-and look, they will laugh back at us  
-for clinging to stories of long-gone times,  
-war-torn past  
+Someday our children will shake their heads  
+and look, they will laugh that their folks  
+cling to the stories of long-gone storms,  
+times of woe
