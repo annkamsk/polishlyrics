@@ -32,10 +32,10 @@ wstaje dzień.
 
 -----
 
-Gm
+Gm         F        Gm
 Słońce przytuli nas do swych rąk.
 
-Gm               C         Gm
+  Gm              C         Gm
 I spójrz: ziemia ciężka od krwi,
 
 Gm     F          Gm   F
@@ -44,13 +44,13 @@ znowu urodzi nam zboża łan,
       Gm
 złoty kurz.
 
-Gm        Gm        Gm
+Gm        F        Gm
 Przyjmą kobiety nas pod swój dach.
 
 Gm             C               Gm
 I spójrz: będą śmiać się przez łzy.
 
-Gm                        F
+Gm       F          Gm    F
 Znowu do tańca ktoś zagra nam.
 
      B
@@ -64,7 +64,7 @@ Za dzień, za dwa,
    F       B
 za noc, za trzy,
 
-   Gm    Gm      F Gm
+   F     Gm      Gm
 choć nie dziś,
 
    Gm      F
@@ -73,30 +73,30 @@ za noc, za dzień,
   F       B
 doczekasz się,
 
-    Gm  Gm
+    F  Gm
 wstanie świt. 
 
 -----
 
-Gm
-Chleby upieką się nowe nam.
+Gm      F           Gm
+Chleby upieką się w piecach nam.
 
 Gm                  C         Gm
 I spójrz: tam gdzie tylko był dym,
 
-Gm                         F
+Gm        F          Gm    F
 kwiatem zabliźni się wojny ślad,
 
       Gm
 barwą róż.
 
-Gm
-Dzieci urodzą się w piecach nam.
+Gm      F         Gm
+Dzieci urodzą się nowe nam.
 
 Gm             C             Gm
 I spójrz: będą śmiać się, że my
 
-Gm                        F
+Gm         F        Gm    F
 znów wspominamy ten podły czas,
 
      B
@@ -110,7 +110,7 @@ Za dzień, za dwa,
    F       B
 za noc, za trzy,
 
-   Gm    Gm      F Gm
+F        Gm      Gm
 choć nie dziś,
 
    Gm      F
@@ -119,5 +119,5 @@ za noc, za dzień,
   F       B
 doczekasz się,
 
-    Gm  Gm
+  F     Gm
 wstanie świt. 
