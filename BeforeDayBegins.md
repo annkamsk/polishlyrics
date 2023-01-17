@@ -13,8 +13,8 @@ _TargetLang_: _en_
 From here and from afar  
 and walks of mountain ash  
 where forests burned  
-and wind gave way to  
-battle cries  
+and wind reached front line
+night and cold
 Where fields of crops untouched  
 Where fruit have rotten black  
 Day is nigh  
