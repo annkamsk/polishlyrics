@@ -23,7 +23,7 @@ Każdy twój dech będzie tylko słabł
 Ech, z pustych płuc nic nie wyśpiewasz  
 
 ##### eurydyka  
-Dziwny tak zew woła ten człek    
+Dziwną tak pieśń śpiewa ten człek    
 Chcę jego dłoń wziąć i w niej stłumić lęk  
 Chcę móc się skryć wśród miękkich wnęk  
 Chcę móc gdzieś spocząć na zawsze  
@@ -36,8 +36,8 @@ Choć podły gdy głód i chłód wiodą cię
 A ja miejsce mam dla kanarka. 
 
 ###### eurydyka
-Nagle świat cały sens traci już  
-Gdzie znikłeś znów, Orfeusz?  
+Nagle świat sens cały traci już  
+Gdzie zniknął znów Orfeusz?  
 Miała z nas para być bratnich dusz  
 Mieliśmy trwać już na zawsze  
 
