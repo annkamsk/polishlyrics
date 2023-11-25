@@ -35,7 +35,7 @@ but not now
 
 a day, a night  
 they too shall pass 
-dusk will come 
+dawn will come 
 
 We'll light up the ovens to bake our bread  
 and look, where there's ashes and smoke  
