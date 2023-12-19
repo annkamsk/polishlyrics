@@ -10,9 +10,9 @@ No, this is not a programming repository. This place proves that I'm definitely 
 _From_: _{artysta/tytuł musicalu/filmu}_  
 _Title_: _{tytuł w oryginalnym języku}_  
 _By_: _{autor oryginalnych słów}_  
-_Translated_: _{tłumacz}_
-_SourceLang_: _{dwuliterowy kod oryginalnego języka np. en}_
-_TargetLang_: _{dwuliterowy kod języka docelowego np. pl}_
+_Translated_: _{tłumacz}_  
+_SourceLang_: _{dwuliterowy kod oryginalnego języka np. en}_  
+_TargetLang_: _{dwuliterowy kod języka docelowego np. pl}_  
 
 ---
 
