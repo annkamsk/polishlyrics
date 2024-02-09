@@ -18,8 +18,8 @@ On i ja
 
 Od kiedy śpiewają tak czysto?  
 Od kiedy tak przyjemnie brzmią?  
-Czy to nie chór co był przed chwilą  
-Mały wciąż
+Czy to nie chór co był przed chwilą ??    
+Mały wciąż ??
 
 
 Co świt, to zmrok  
