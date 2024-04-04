@@ -18,8 +18,8 @@ On i ja
 
 Odkąd śpiewają aż tak czysto?  
 Od kiedy tak przyjemnie brzmią?  
-Czy ten chór spadał przy śpiewaniu
-Cały ton?
+Kiedyś na scenie był z nich  
+Jeden rząd
 
 Co świt, to zmrok  
 Co świt, to zmrok  
